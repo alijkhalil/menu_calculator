@@ -33,7 +33,7 @@ public class MenuCompositionPane extends JPanel implements DocumentListener{
 			"Liters", "Gallons", MenuCompositionPane.solidLabel, "Grams",
 			"Ounces (solid)", "Pounds", "Kilos" };
 
-	static final String INVALID_INGREDIENT[] = {"MamDMiv??", "Aedshdc!?", "Hoohios!!", "Juhidfw??", "HtmaMis??", "DeEsrdf!?", "Uewazwk!!", "XuFodac??"};
+	static final String INVALID_INGREDIENT[] = {"MamDMiv??", "Cerkldc!?", "Hoohios!!", "Juhidfw??", "HtmaMis??", "DeEsrdf!?", "Uewazwk!!", "XuFodac??"};
 	final static String[] INGREDIENT_INVALID_ITEMS = { "SELECT (units)",
 			MenuCompositionPane.liquidLabel, MenuCompositionPane.solidLabel, MenuCompositionPane.otherLabel};
 	final static String[] INGREDIENT_INCOMPLETE = { "SELECT (units)" };
